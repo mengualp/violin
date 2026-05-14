@@ -2,11 +2,11 @@
 
 **Open-source Video Translation Tool.**
 
+[🌐 Live demo](https://violin-ai.com) · [📝 Blog post](https://www.together.ai/blog/violin-open-source-translation-skill) · [📜 MIT License](https://github.com/shang-zhu/violin/blob/main/LICENSE)
+
 <p align="left">
   <img src="assets/logo.png" alt="Violin logo" width="256">
 </p>
-
-[🌐 Live demo](https://violin-ai.com) · [📝 Blog post](https://www.together.ai/blog/violin-open-source-translation-skill) · [📜 MIT License](https://github.com/shang-zhu/violin/blob/main/LICENSE)
 
 <!-- ![demo](assets/outcome.png) -->
 
