@@ -260,7 +260,7 @@ Ordered by native-speaker population.
 | French | french narrator man / french narrator lady | Lior / Virginie |
 | Italian | italian narrator man / italian narrator woman | Raffaele / Chiara |
 | Polish | polish confident man / polish narrator woman | Gregor / Jola |
-| Dutch | dutch confident man / dutch man | Ronald / Jolanda |
+| Dutch | dutch confident man / dutch woman | Ronald / Jolanda |
 | Swedish | swedish narrator man / swedish calm lady | Andreas / Louise |
 
 The 17 fallback languages (using the English voice catalog), also ordered by native speakers: Vietnamese, Tamil, Indonesian, Malay, Ukrainian, Romanian, Thai, Greek, Hungarian, Catalan, Czech, Bulgarian, Danish, Slovak, Croatian, Finnish, Norwegian.
