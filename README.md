@@ -277,6 +277,20 @@ PRs welcome. Got questions or hit a bug? Email **<heyviolinai@gmail.com>** or op
 
 This is a personal open-source project, not a Together AI product. Users are responsible for ensuring they have the right to download and translate any content they process. Designed for Creative Commons, public domain, your own recordings, and other content you have permission to use.
 
+## Kaynak
+Hiç en sevdiğin bir konuşmayı başka bir dile dublajlamayı denedin mi?
+
+Together AI, Violin'i açık kaynakladı: videoyu atıyorsun, 33 dilde seslendirilmiş halini geri alıyorsun. Whisper transkribe ediyor, DeepSeek V4 Pro çeviriyor, Cartesia Sonic 3 seslendiriyor, ffmpeg montajlıyor. Hepsi tek satırda.
+
+16 dilde yerel konuşmacı sesleri özenle seçilmiş. Türkçe dil desteği de var.  6 stil profili var  akademik, hikaye anlatıcı, haber spikeri. Hatta videoya soru sorabileceğin multimodal chat asistanı bile dahil.
+Tamamen açık kaynak, MIT lisanslı.
+
+Video dublajı stüdyo işiydi eskiden. Binlerce dolar, günler. Şimdi bir API anahtarı ve tek satıra indi.
+Türkçe içerik üreticileri için ciddi fırsat: videoları 32 dile çevirip küresel kitleye ulaşmak artık teknik engel değil.
+
+Şuan ücretsiz deneyebilirsiniz. 
+https://x.com/xenit_v0/status/2055354626111643927
+
 ---
 
 ## 📜 License
